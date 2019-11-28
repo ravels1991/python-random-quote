@@ -1,4 +1,4 @@
-def main():
+def first_function():
     print("Keep it logically awesome.")
 
     f = open("quotes.txt")
@@ -8,4 +8,4 @@ def main():
     print(quotes)
 
 if __name__== "__main__":
-  main()
+  first_function()
